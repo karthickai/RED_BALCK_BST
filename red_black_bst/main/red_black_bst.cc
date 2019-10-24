@@ -228,7 +228,7 @@ void RBTree::inorder(){
 }
 
 int main(){
-   RBTree tree; 
+    RBTree tree; 
   
     tree.insert(8); 
     tree.insert(6); 
@@ -239,7 +239,9 @@ int main(){
     tree.insert(1); 
   
     std::cout << "Inoder Traversal of Created Tree\n"; 
-    tree.inorder(); 
+    tree.inorder(); // Inodrder traversal
     std::cout << std::endl;
+
+    // Deletion operation yet to be implemented
   return 0;
 }
