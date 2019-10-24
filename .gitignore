@@ -2,3 +2,4 @@ red_black_bst/bazel-bin
 red_black_bst/bazel-out
 red_black_bst/bazel-red_black_bst
 red_black_bst/bazel-testlogs
+.vscode
