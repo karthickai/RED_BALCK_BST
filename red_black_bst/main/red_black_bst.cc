@@ -243,5 +243,6 @@ int main(){
     std::cout << std::endl;
 
     // Deletion operation yet to be implemented
+    std::cout << "Deletion Started" << std::endl; 
   return 0;
 }
